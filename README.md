@@ -1,10 +1,12 @@
 # EventManagementSystem-OOD-Assignment
+It's an Object-Oriented Design project that requires an 8-member group to complete a Ticket Management System website from scratch.
+
+---
 
 ## Link to the overall project
 https://csgitlab.ucd.ie/comp3013j-2024/group01/eventmanagementsystem
 
 _Since it's a project assigned by our teacher, I cannot change the visibility, but provide a link and proof of my contribution as the team leader._
-It's an Object-Oriented Design project that requires an 8-member group to complete a Ticket Management System website from scratch.
 
 ---
 
